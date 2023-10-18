@@ -47,5 +47,5 @@ FreeRTOS is a popular real-time operating system for microcontrollers and small 
 
 ## Contact
 
-For questions, suggestions, or support, you can contact us at [your-rakibhasan01316980149@gmail.com](mailto:your-rakibhasan01316980149@gmail.com).
+For questions, suggestions, or support, you can contact me at [Rakib Hasan](mailto:your-rakibhasan01316980149@gmail.com).
 
