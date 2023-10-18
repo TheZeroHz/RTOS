@@ -1,9 +1,3 @@
-# FreeRTOS for ESP32
-
-## Introduction
-
-FreeRTOS is a popular real-time operating system for microcontrollers and embedded systems. This README provides an overview of essential concepts and functions related to FreeRTOS on the ESP32 platform.
-
 ## TaskHandle_t
 
 `TaskHandle_t` is a data type in FreeRTOS used to reference tasks. When you create a task using functions like `xTaskCreate`, it returns a `TaskHandle_t` variable that allows you to manage and interact with the task. For example, you can use `TaskHandle_t` as a parameter for the `vTaskDelete` function to delete a task.
