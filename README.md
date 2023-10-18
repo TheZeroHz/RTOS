@@ -2,8 +2,7 @@
 
 ## Introduction
 
-FreeRTOS is a popular real-time operating system for microcontrollers and small embedded systems. This README.md provides an overview of the benefits of using FreeRTOS on ESP32 and highlights some of the key functions it offers.
-
+FreeRTOS is a popular real-time operating system for microcontrollers and small embedded systems. 
 ## Benefits of FreeRTOS for ESP32
 
 - **Real-Time Capabilities**: FreeRTOS allows you to create real-time applications on the ESP32, ensuring that critical tasks get executed on time.
